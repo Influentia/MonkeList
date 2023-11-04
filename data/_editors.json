@@ -1,97 +1,11 @@
 [
     {
         "role": "owner",
-        "name": "Microwaveee",
-        "link": "https://www.youtube.com/channel/UC4BZvLEre3SrihXXL-eItWg"
+        "name": "auricGD",
+        "link": "https://www.youtube.com/@InfluentiaGaming"
     },
     {
         "role": "owner",
-        "name": "JustCrust",
+        "name": "Influentia",
         "link": "#"
     },
-    {
-        "role": "owner",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "admin",
-        "name": "TravelChimp",
-        "link": "https://www.youtube.com/@travelchimp8217"
-    },
-    {
-        "role": "admin",
-        "name": "KylashTheKiller",
-        "link": "https://youtube.com/@KylashTheKiller"
-    },
-    {
-        "role": "admin",
-        "name": "SorryM8",
-        "link": "#"
-    },
-    {
-        "role": "seniormod",
-        "name": "SarcasticMuch",
-        "link": "https://www.youtube.com/channel/UCH4iSascx58Bfue2cfpWKJQ"
-    },
-    {
-        "role": "mod",
-        "name": "lucap123",
-        "link": "https://www.youtube.com/@lucap123gd8"
-    },
-    {
-        "role": "mod",
-        "name": "srus",
-        "link": "https://www.youtube.com/channel/UCZWCsnRMKs7VSyO094YeyJw"
-    },
-    {
-        "role": "mod",
-        "name": "urban",
-        "link": "https://www.youtube.com/channel/UCV3Y98U07Opb6E9V__mrBNQ"
-    },
-    {
-        "role": "trial",
-        "name": "Willow",
-        "link": "https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw"
-    },
-    {
-        "role": "trial",
-        "name": "Pani",
-        "link": "#"
-    },
-    {
-        "role": "trial",
-        "name": "Wiktor",
-        "link": "https://www.youtube.com/channel/UCD9Q_xZmonsNc3FkQ_I1qTw"
-    },
-    {
-        "role": "trial",
-        "name": "Nox",
-        "link": "#"
-    },
-    {
-        "role": "trial",
-        "name": "lermor",
-        "link": "#"
-    },
-    {
-        "role": "trial",
-        "name": "snickles",
-        "link": "https://www.youtube.com/channel/UCkwR22BGmJU1CVPPBo7ES0A"
-    },
-    {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Emonadeo",
-        "link": "https://github.com/Emonadeo"
-    },
-    {
-        "role": "dev",
-        "name": "KrisGra",
-        "link": "https://www.youtube.com/channel/UCrB80p9IxnDthH551FpqlwQ"
-    }
-]

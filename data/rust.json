@@ -7,9 +7,12 @@
     "verification": "https://youtu.be/U21gyCuwCO8",
     "showcase": "https://youtu.be/higuysgoodday",
     "percentToQualify": 100,
-    "records": {
+    "records": [
+        {
             "user": "Nikoo",
             "link": "#",
             "percent": 100,
             "hz": 360
+        ]
         },
+}

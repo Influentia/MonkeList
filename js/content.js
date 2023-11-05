@@ -74,6 +74,9 @@ export async function fetchLeaderboard() {
                     score: score(rank + 1, 100, level.percentToQualify),
                     link: record.link,
                 });
+            if (hz>59 && hz<240) {
+                score=score+20,
+                });
                 return;
             }
 

@@ -1,0 +1,18 @@
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "BoldStep",
+    "creators": ["Ilrell", "Rustam"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/Tlzh9FZq3XI",
+    "showcase": "https://youtu.be/flsGOtJgUD0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

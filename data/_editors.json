@@ -2,11 +2,16 @@
     {
         "role": "owner",
         "name": "auricGD",
-        "link": "https://www.youtube.com/@InfluentiaGaming"
+        "link": "#"
     },
     {
         "role": "owner",
         "name": "Influentia",
-        "link": "#"
+        "link": "https://www.youtube.com/@InfluentiaGaming"
     }
+    {
+        "role": "helper",
+        "name": "YayaneKK",
+        "link": "#"
+    },
 ]

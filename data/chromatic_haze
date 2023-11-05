@@ -1,0 +1,18 @@
+{
+    "id": 62869408,
+    "name": "Chromatic Haze",
+    "author": "",
+    "creators": ["Gizbro"],
+    "verifier": "RevoltZy",
+    "verification": "https://youtu.be/J-qEOHy-IIA",
+    "showcase": "https://youtu.be/nKdXbErJAEE?si=Cj1GjVLeQvM0pE6h",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

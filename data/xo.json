@@ -1,0 +1,19 @@
+{
+    "id": 58825144,
+    "name": "Xo",
+    "author": "Krmal",
+    "creators": [],
+    "verifier": "Krmal",
+    "verification": "https://youtu.be/Tlzh9FZq3XI",
+    "showcase": "https://youtu.be/flsGOtJgUD0",
+    "percentToQualify": 100,
+    "password": "000007",
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

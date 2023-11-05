@@ -57,12 +57,30 @@ export async function fetchLeaderboard() {
             return;
         }
 
+        // Verification
+        const verifier = Object.keys(scoreMap).find(
+            (u) => u.toLowerCase() === level.verifier.toLowerCase(),
+        ) || level.verifier;
+        scoreMap[verifier] ??= {
+            verified: [],
+            completed: [],
+            progressed: [],
+        };
+        const { verified } = scoreMap[verifier];
+        verified.push({
+            rank: rank + 1,
+            level: level.name,
+            score: score(rank + 1, 100, level.percentToQualify),
+            link: level.verification,
+        });
+
         // Records
         level.records.forEach((record) => {
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
             scoreMap[user] ??= {
+                verified: [],
                 completed: [],
                 progressed: [],
             };
@@ -89,8 +107,8 @@ export async function fetchLeaderboard() {
 
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
-        const { completed, progressed } = scores;
-        const total = [completed, progressed]
+        const { verified, completed, progressed } = scores;
+        const total = [verified, completed, progressed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
 

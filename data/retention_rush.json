@@ -1,0 +1,19 @@
+{
+    "id": 81906166,
+    "name": "Retention Rush",
+    "author": "TheBlackHell",
+    "creators": ["TheBlackHell"],
+    "verifier": "Angel",
+    "verification": "https://youtu.be/SPn1wsc9J9M",
+    "showcase": "https://youtu.be/81wqJrCwn5A?si=LQBD5nObi2y596FX",
+    "percentToQualify": 100,
+    "password": "474969",
+    "records": [
+        {
+            "user": "Pryanik",
+            "link": "https://youtu.be/dsJ3s29NjMA?si=r5pnC5So_iN_kbC_",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

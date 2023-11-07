@@ -1,0 +1,19 @@
+{
+    "id": 27580467,
+    "name": "Hatred",
+    "author": "AZuLer4",
+    "creators": ["AZuLer4", "SrGuillester"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/mq5-I5UXZrQ",
+    "showcase": "https://www.youtube.com/watch?v=DnQ-CG2hrZE",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 69507105,
+    "name": "RASH",
+    "author": "loltad",
+    "creators": ["loltad"],
+    "verifier": "Zoink Doink",
+    "verification": "https://youtu.be/tSCXrB898Pc",
+    "showcase": "https://youtu.be/qONnCqyiq9A?si=qjQN_Jd2QjUlJyiU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Nikoo",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

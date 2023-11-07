@@ -1,0 +1,18 @@
+{
+    "id": 55610687,
+    "name": "Belloq",
+    "author": "Sminx",
+    "creators": ["Pennutoh", "Epsilonic", "YakobNugget", "SlimJim", "Juhou", "Nico99", "Altin", "Unigeny", "Enzore", "Onnikonna", "JaoDay", "Lipz", "Voltex", "Sminx", "Skidel", "Salamander"],
+    "verifier": "BrianTheBurger",
+    "verification": "https://youtu.be/-7e3lRUBme8",
+    "showcase": "https://youtu.be/HQkiPvKTU2Q?si=av_ljgaCiYbnRfFv",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "https://youtu.be/LgoCbpHC76o?si=I2qahGaLap1rEvyw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

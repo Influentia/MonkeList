@@ -1,0 +1,19 @@
+{
+    "id": 57433866,
+    "name": "BuTiTi III",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "Nexus",
+    "verification": "https://youtu.be/wxWBFaZYHPM",
+    "showcase": "https://youtu.be/iITTSCdGpgc?si=5IBm01dWmfhDVe_O",
+    "percentToQualify": 100,
+    "password": "684651",
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

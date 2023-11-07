@@ -1,0 +1,19 @@
+{
+    "id": 60603962,
+    "name": "Low Death",
+    "author": "Krmal",
+    "creators": ["Migueword", "Krmal"],
+    "verifier": "Krmal",
+    "verification": "https://youtu.be/79wQenmbG3Q",
+    "showcase": "https://youtu.be/tPFN83k6DWo?si=4xER-Vr1xbWL2Dsf",
+    "percentToQualify": 100,
+    "password": "002015",
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

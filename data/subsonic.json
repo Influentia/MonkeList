@@ -1,0 +1,18 @@
+{
+    "id": 33387622,
+    "name": "SubSonic",
+    "author": "ViPriN",
+    "creators": [ "Rustam", "ViPriN", "Terron", "xcy7", "Evasium", "Dudex", "Panman", "Jeyzor", "GgB0y", "TheDevon", "Sumsar"],
+    "verifier": "combi",
+    "verification": "https://youtu.be/F-AfSPnjIcM",
+    "showcase": "https://youtu.be/-0SMMRHXWGE?si=YRnERkvgnnucYHBu",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

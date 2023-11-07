@@ -1,0 +1,19 @@
+{
+    "id": 27379546,
+    "name": "Infernal Abyss",
+    "author": "GgB0y",
+    "creators": ["Bianox", "GgB0y", "Manix648"],
+    "verifier": "BlassCFB",
+    "verification": "https://youtu.be/PphhxYmYYZU",
+    "showcase": "https://youtu.be/TTIzBCMMPho?si=yHz-sXtRPMiVpHee",
+    "percentToQualify": 100,
+    "password": "000066",
+    "records": [
+        {
+            "user": "lowercasebeef",
+            "link": "https://www.youtube.com/watch?v=yGkmKyhnXz4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

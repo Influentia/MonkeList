@@ -1,0 +1,25 @@
+{
+    "id": 34057654,
+    "name": "Black Blizzard",
+    "author": "Krmal",
+    "creators": [],
+    "verifier": "Krmal",
+    "verification": "https://youtu.be/lsT5TjQ1Ubc",
+    "showcase": "https://youtu.be/dApO4cKABN8?si=O79fOBWZQxwYRoOO",
+    "percentToQualify": 100,
+    "password": "000006",
+    "records": [
+        {
+            "user": "Nikoo",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

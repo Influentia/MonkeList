@@ -1,0 +1,18 @@
+{
+    "id": 36107975,
+    "name": "Carnage Mode",
+    "author": "Findexi",
+    "creators": ["Findexi", "nasgubb", "Dudex", "Kips", "GDSpeed", "Lemons", "Juhou", "Lassiboy"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/GuJkgwNJ0UU",
+    "showcase": "https://youtu.be/5Dy2fccB9Co?si=XeWqt0gN5O2tDxeW",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kitsune14",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

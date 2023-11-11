@@ -5,14 +5,14 @@
     "creators": ["xcy7", "weoweoteo"],
     "verifier": "BlassCFB",
     "verification": "https://www.youtube.com/watch?v=6KZUK-BpS6w",
-    "showcase": "https://youtu.be/tPFN83k6DWo?si=4xER-Vr1xbWL2Dsf",
+    "showcase": "https://youtu.be/tk-PtOg8YIY?si=ID9uvSWJ2T20z0Cq",
     "percentToQualify": 100,
     "records": [
-    {
-            "user": "Lia",
-            "link": "https://youtu.be/aQWuUZBY-QU",
+        {
+            "user": "Kitsune14",
+            "link": "#",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         }
     ]
 }

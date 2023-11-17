@@ -5,25 +5,14 @@
     "creators": ["lagnugg", "SirZaiss", "bli", "MrClyde", "EnZore", "Scrumpy", "RealVet", "Dawnf4ll", "BySelling", "Expy", "jamscone", "CastriX", "Konsi", "Vampur", "Cuaer7", "MapleGaegosu", "L4mbads", "ZeroSR", "Kivvvi", "Infxrnal", "HelpegasuS", "ElizabethaGames", "Xatz", "Zhopolom", "ORte", "fCrouley", "Maitnary", "hyp3rlink", "gdsauzzeth", "HighJump", "Buragoz", "Hantein"],
     "verifier": "Dorami",
     "verification": "https://youtu.be/VoUNh3yDjYw?si=jF6cy3a7CgtYqdRx",
+    "showcase": "https://youtu.be/zJqq0S3CVAI?si=hv2e_qPXb9JZBPMf",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Bamvie",
-            "link": "https://youtu.be/PfQeCJAMj6c?si=mgW4y50Zapbdf6or",
+            "user": "YayaneKK",
+            "link": "#",
             "percent": 100,
-            "hz": 360
-    },
-    {
-        "user": "ddddr",
-        "link": "https://youtu.be/bcSzjN5Q61I?si=U6LMdDHciewkf_H5",
-        "percent": 100,
-        "hz": 360
-    },
-    {
-        "user": "Lia",
-        "link": "https://www.youtube.com/watch?v=XstAxnsHj48",
-        "percent": 100,
-        "hz": 360
-}
+            "hz": 240
+        }
     ]
 }

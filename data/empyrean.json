@@ -1,0 +1,41 @@
+{
+    "id": 92957491,
+    "name": "Empyrean",
+    "author": "Kivvvi",
+    "creators": [],
+    "verifier": "NikVer",
+    "verification": "https://youtu.be/KFOWfSYWC-Y?si=IIZ8IkJdO8ik2WuY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/7_LHrlthkS0?si=yAdjTx3ZtI7cV26-",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/2pYjMvE5-Ng?si=cDLVADMZ65GCaAcf",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "Bleamer",
+        "link": "https://youtu.be/W2rVgABM7iM?si=gO-k3Fz1q6FXII-O",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "Bamvie",
+    "link": "https://youtu.be/Edvc9XA3-LM?si=j1NFKkccG47RDmuf",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Frogundeez",
+    "link": "https://youtu.be/atKsiczJtLQ?si=WZ1PwORN5a4R2-gK",
+    "percent": 100,
+    "hz": 144
+}
+    ]
+}

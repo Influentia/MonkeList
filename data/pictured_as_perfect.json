@@ -5,13 +5,14 @@
     "creators": ["Drakosa", "tenzk"],
     "verifier": "Drakosa",
     "verification": "https://youtu.be/buOPp10xwE8?si=ftWF6ok0XNSQR-fO",
+    "showcase": "https://youtu.be/s_Xke4ATZQY?si=BIriuYc-e3XqcnVq",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "ddddr",
-            "link": "https://youtu.be/K0G28WpwD2w?si=fzzHnLyDG6f1UWlK",
+            "user": "Pryanik",
+            "link": "https://youtu.be/zz8-1nqGeUk?si=nP50BTsfcRTRUdlI",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }

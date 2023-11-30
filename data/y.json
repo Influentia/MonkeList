@@ -1,0 +1,19 @@
+{
+    "id": 18269713,
+    "name": "Y",
+    "author": "geomania",
+    "creators": ["geomania", "Knobbelboy"],
+    "verifier": "geomania",
+    "verification": "#",
+    "showcase": "https://www.youtube.com/watch?v=E7LO5CQMQLY&pp=ygUNWSBieSBnZW9tYW5pYQ%3D%3D",
+    "password": "#",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "fusebomber",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

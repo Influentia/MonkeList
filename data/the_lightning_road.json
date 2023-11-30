@@ -1,0 +1,19 @@
+{
+    "id": 55520,
+    "name": "The lightning road",
+    "author": "timeless real",
+    "creators": ["timeless real"],
+    "verifier": "timeless real",
+    "verification": "#",
+    "showcase": "https://www.youtube.com/watch?v=smwunc7UiHk",
+    "password": "808080",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "EndoFall",
+            "link": "#",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

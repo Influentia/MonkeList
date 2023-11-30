@@ -1,0 +1,19 @@
+{
+    "id": 52663172,
+    "name": "Crisis Complex",
+    "author": "Lemons",
+    "creators": ["Lemons"],
+    "verifier": "Lemons",
+    "verification": "https://www.youtube.com/watch?v=CWBt-DdHbc0",
+    "showcase": "https://www.youtube.com/watch?v=zYbM4z87vEU",
+    "password": "040400",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "fusebomber",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

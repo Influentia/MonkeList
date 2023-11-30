@@ -1,0 +1,19 @@
+{
+    "id": 450920,
+    "name": "Clubstep v2",
+    "author": "IIINePtunEIII",
+    "creators": ["IIINePtunEIII"],
+    "verifier": "IIINepTunEIII",
+    "verification": "https://www.youtube.com/watch?v=BkScEEd3Ys8",
+    "showcase": "https://www.youtube.com/watch?v=BkScEEd3Ys8",
+    "password": "#",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "empty",
+            "link": "https://www.youtube.com/watch?v=pWsMDFdQNoA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

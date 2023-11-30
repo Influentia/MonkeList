@@ -1,17 +1,17 @@
 {
-    "id": 626543,
+    "id": 764038,
     "name": "Zstep",
     "author": "IIINePtunEIII",
     "creators": ["IIINePtunEIII"],
     "verifier": "IIINePtunEIII",
-    "verification": "https://www.youtube.com/watch?v=kqNhZr5aB3o",
-    "showcase": "https://www.youtube.com/watch?v=O2FOnBYIdHc",
+    "verification": "https://www.youtube.com/watch?v=Exu_08G4_SQ",
+    "showcase": "https://www.youtube.com/watch?v=uVuZ3A2yBiA",
     "password": "#",
     "percentToQualify": 100,
     "records": [
         {
             "user": "empty",
-            "link": "https://www.youtube.com/watch?v=NAeZFznVNGM",
+            "link": "#",
             "percent": 100,
             "hz": 240
         }

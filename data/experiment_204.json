@@ -1,0 +1,19 @@
+{
+    "id": 60260950,
+    "name": "Experiment 204",
+    "author": "HHyper",
+    "creators": ["HHyper"],
+    "verifier": "Zorglub999",
+    "verification": "#",
+    "showcase": "https://www.youtube.com/watch?v=i4Gg7V76rM0",
+    "password": "002040",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Belladona",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

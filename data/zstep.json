@@ -1,0 +1,19 @@
+{
+    "id": 626543,
+    "name": "Zstep",
+    "author": "IIINePtunEIII",
+    "creators": ["IIINePtunEIII"],
+    "verifier": "IIINePtunEIII",
+    "verification": "https://www.youtube.com/watch?v=kqNhZr5aB3o",
+    "showcase": "https://www.youtube.com/watch?v=O2FOnBYIdHc",
+    "password": "#",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "empty",
+            "link": "https://www.youtube.com/watch?v=NAeZFznVNGM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

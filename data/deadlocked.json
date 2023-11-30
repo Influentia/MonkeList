@@ -1,5 +1,5 @@
 {
-    "id": #,
+    "id": 20,
     "name": "Deadlocked",
     "author": "RobTop",
     "creators": ["RobTop"],
@@ -19,7 +19,7 @@
             "user": ":tullputyyppi:",
             "link": "#",
             "percent": 100,
-            "hz": #
+            "hz": 360
         }
     ]
 }

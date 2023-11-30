@@ -1,0 +1,19 @@
+{
+    "id": 13687892,
+    "name": "Horror Hate",
+    "author": "B u r n",
+    "creators": ["B u r n"],
+    "verifier": "B u r n",
+    "verification": "#",
+    "showcase": "https://www.youtube.com/watch?v=skKfl9rNTxg&pp=ygUOaG9ycm9yIGhhdGUgZ2Q%3D",
+    "password": "553242",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "empty",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

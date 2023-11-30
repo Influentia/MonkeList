@@ -1,0 +1,19 @@
+{
+    "id": 553327,
+    "name": "Way of the Darkness",
+    "author": "IIINePtunEIII",
+    "creators": ["IIINePtunEIII"],
+    "verifier": "IIINePtunEIII",
+    "verification": "#",
+    "showcase": "https://www.youtube.com/watch?v=dOJhARl5H30",
+    "password": "#",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "empty",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": #,
+    "name": "Deadlocked",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "RobTop",
+    "verification": "#",
+    "showcase": "https://www.youtube.com/watch?v=0sNw5L6nKfo",
+    "password": "#",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "empty",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": ":tullputyyppi:",
+            "link": "#",
+            "percent": 100,
+            "hz": #
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "motleyorc",
+    "creators": ["motleyorc", "ScorchVx"],
+    "verifier": "motleyorc",
+    "verification": "#",
+    "showcase": "https://www.youtube.com/watch?v=ohKPqGxotao",
+    "password": "free copy",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Influentia",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tullputyyppi",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "empty",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 90772080,
+    "name": "KETAMINE",
+    "author": "Gablor",
+    "creators": [],
+    "verifier": "Gablor",
+    "verification": "https://www.youtube.com/watch?v=MLjhLxl-uaY",
+    "showcase": "https://youtu.be/V6BI4wCRtGI?si=anM7qBSXX88WjgT9",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Pryanik",
+            "link": "https://youtu.be/TVNPIqWQ7Yc?si=WPxTWiqYwgcyMqXL",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

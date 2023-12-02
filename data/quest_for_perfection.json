@@ -1,0 +1,19 @@
+{
+    "id": 21952243,
+    "name": "Quest for perfection",
+    "author": "LazerBlitz",
+    "creators": ["LazerBlitz"],
+    "verifier": "MaxiS9",
+    "verification": "https://www.youtube.com/watch?v=MAN_ZWb2rY0",
+    "showcase": "https://www.youtube.com/watch?v=m4gVjWg3pUk",
+    "percentToQualify": 100,
+    "password": 369741,
+    "records": [
+        {
+            "user": "CornBoar",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

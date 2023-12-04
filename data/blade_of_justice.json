@@ -8,5 +8,11 @@
     "showcase": "https://youtu.be/FWnAHTC-ol8?si=dmTVapzBm5iFH6pE",
     "percentToQualify": 100,
     "records": [
+         {
+            "user": "YayaneKK",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "id": 94200487,
+    "name": "Xeriscape",
+    "author": "GeoNoRway",
+    "creators": [],
+    "verifier": "GeoNoRway",
+    "verification": "https://youtu.be/rE8K9VVhS9c?si=2Pd6znlHeW5ovYqF",
+    "percentToQualify": 100,
+    "records": [
+    {
+        "user": "Grill3dChz",
+        "link": "https://www.youtube.com/watch?v=j9rqF1N0hmg",
+        "percent": 100,
+        "hz": 144
+},
+{
+    "user": "ijacek_cz",
+    "link": "https://youtu.be/Brpk3B5CA1A?si=a4USKx14xsejVsbQ",
+    "percent": 100,
+    "hz": 360
+}
+        
+    ]
+}

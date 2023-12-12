@@ -5,67 +5,14 @@
     "creators": ["CryoChemist", "Cdpre", "Adafka", "Skipumi", "TropoGD", "Xender Game", "Kitzsune", "HollowEarth", "mau9375", "marrk", "neigefeu", "R4NGER", "Voxicat", "pyrtsune", "Kimi18", "Exiked", "SmitN", "AudieoVisual", "fJud", "Ellisha", "SleyGD", "Y0rk", "ItzKiba", "Knots", "LillyVX", "oraangee", "vyp", "JA4Y", "JVix", "tenzk", "endevvor", "minusx", "ZeroSR", "truongwf", "xolarzz", "SmoopInc", "XdMaNIaC", "DangerKat", "AgSilver", "GDSynthetik", "RavingRafters", "bunch", "Nascence", "JOENUH", "JamAttack", "Subpixel", "SKepler", "VoidOfTheSkies", "Antigen", "Kazey", "Lyriaki"],
     "verifier": "Zeronium",
     "verification": "https://youtu.be/6HKERcnzQsU?si=f21mscLPVnW7svH1",
+    "showcase": "https://youtu.be/0ebefZfZQqE?si=fWoJb47_7TYBZQ7h",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "harrisongamez",
-            "link": "https://youtu.be/mish6Rtz4xU?si=Z-4bsH_fkfJZpbcq",
+            "user": "Influentia",
+            "link": "https://youtu.be/BYZJRvYrghw?si=3tBCDKB-pTAmzcCV",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "eliooenver",
-            "link": "https://www.youtube.com/watch?v=X6uY9sN-dgM",
-            "percent": 100,
-            "hz": 240
-    },
-    {
-        "user": "Majesstic",
-        "link": "https://youtu.be/TWV4alcgtMo",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "Yoshi1712",
-    "link": "https://youtu.be/qMRT49BdRRc?si=TM5u63yim9-8u7va",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "0runa",
-    "link": "https://www.youtube.com/watch?v=sYQ7TgW85Ls&ab_channel=Oruna",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "bunkyrunky",
-    "link": "https://youtu.be/7jaalJq5qis",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "xBlank",
-    "link": "https://youtu.be/gOfpTAmcCwY?si=VwcIym7NupcEZCY5",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "envyixy",
-    "link": "https://www.youtube.com/watch?v=Ovnir5EpPW0",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Lia",
-    "link": "https://youtu.be/FrFvFcNDmmw",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "PlatinaGD",
-    "link": "https://youtu.be/a9xHuR82qo8",
-    "percent": 100,
-    "hz": 240
-}
+        }
     ]
 }

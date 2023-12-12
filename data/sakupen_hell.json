@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "895562",
     "records": [
+        {
+            "user": "lowercasebeef",
+            "link": "https://youtu.be/a5Uwgx-fb1g",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

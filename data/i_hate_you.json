@@ -5,32 +5,15 @@
     "creators": [],
     "verifier": "Blitzer",
     "verification": "https://www.youtube.com/watch?v=2JSaAWJWDPY",
+    "showcase": "https://youtu.be/KD8BHpP2DFI?si=qjX2lWR0zOrq7D45",
     "percentToQualify": 100,
     "password": "189333",
     "records": [
-    {
-            "user": "meluwudy",
-            "link": "https://www.youtube.com/watch?v=qLX6GqjODJU",
-            "percent": 100,
-            "hz": 144
-},
         {
-            "user": "Clara",
-            "link": "https://youtu.be/E25rtkSurJo",
+            "user": "qd1m",
+            "link": "https://youtu.be/ELyV8d5c5mk?si=Q87zVnFBCw-E7Con",
             "percent": 100,
             "hz": 360
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/QQ87kJkgi70",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "qKitti",
-    "link": "https://youtu.be/-hIuuBeOZHM?si=cFMCS_G3et4dWBFl",
-    "percent": 100,
-    "hz": 240
-}
+        }
     ]
 }

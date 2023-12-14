@@ -1,0 +1,19 @@
+{
+    "id": 16023141,
+    "name": "Cicada3302",
+    "author": "Darwin",
+    "creators": ["Darwin"],
+    "verifier": "Nexus",
+    "verification": "https://youtu.be/DsM-e8yF5ys?si=N9nWO59BSMj-GGFO",
+    "showcase": "https://youtu.be/d6BbxlwY0lY?si=GJ-gMXTNNo_rg5CO",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Influentia",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -5,49 +5,14 @@
     "creators": [],
     "verifier": "Noxiom",
     "verification": "https://youtu.be/j8gEngrc1bg",
+    "showcase": "https://youtu.be/XS61n1GfJmM?si=eumOyOSJ7bvJz29F",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "HotNooB",
-            "link": "https://youtu.be/isqKjIW9Kpg",
+            "user": "Influentia",
+            "link": "https://youtu.be/RLIJQ4k_7h8",
             "percent": 100,
             "hz": 360
-    },
-    {
-        "user": "yoshi1712",
-        "link": "https://youtu.be/N3at_ZBAqzo",
-        "percent": 100,
-        "hz": 144
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/DCW-HDvznuE",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Cork",
-    "link": "https://www.youtube.com/watch?v=5ulwyNNk9wE&list=PLL0lLDY-PaAHVDMLfCi6-skVHc-ZcwHfq&index=49",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Angel",
-    "link": "https://www.youtube.com/watch?v=choI-XycFLg&list=PLRwgCEFKufRicplRAzNF0NBJyXYrMZU27&index=3",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "WavyGW",
-    "link": "https://www.youtube.com/watch?v=tmDF-QsHoOk",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Trivial",
-    "link": "https://youtu.be/NwF8qm_F9c8?si=7CHSylh6U0JjoXQF",
-    "percent": 100,
-    "hz": 240
-}
+        }
     ]
 }

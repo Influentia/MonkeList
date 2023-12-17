@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "270416",
     "records": [
+        {
+            "user": "qd1m",
+            "link": "https://youtu.be/RbTE58JiJvo?si=0QTQY3q4kTRh85kI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

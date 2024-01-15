@@ -25,14 +25,14 @@
 
 .shitty.root {
     --color-background: rgba(255, 150, 245);
-    --color-on-background: white;
+    --color-on-background: black;
     --color-background-hover: #27262c;
-    --color-on-background-hover: white;
+    --color-on-background-hover: black;
     --color-primary: #c98136;
     --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-on-primary: black;
     --color-error: #de0000;
-    --color-on-error: white;
+    --color-on-error: black;
 }
 
 html,

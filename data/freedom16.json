@@ -5,6 +5,14 @@
     "creators": ["Awedsy", "Hsam", "6MasonPlayz", "Partialism", "MCDakan", "Dave4681", "C034", "goob", "Lunaris", "Sercoons", "Mousile", "JH1235", "Lander", "silver", "Lmntal", "meph", "rozengerj", "Qazzy", "RMT0615", "Cylyrii", "1named", "higuy", "DShifter", "Jolly", "Kyder", "m1cka", "Sariastuff", "Supershape", "nab", "Nix812"],
     "verifier": "DShifter",
     "verification": "https://www.youtube.com/watch?v=rssCmG1xlSc",
+    "showcase": "https://youtu.be/xEaTnL4Oq2k?si=-gOanXEHFGRnabYw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Xchomp",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

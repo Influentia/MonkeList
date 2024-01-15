@@ -142,5 +142,5 @@ input[type="checkbox"] {
 }
 
 .toggle-shitty:not(:hover) img {
-    display: monke.png;
+    display: "monke.png";
 }

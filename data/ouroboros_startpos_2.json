@@ -5,32 +5,15 @@
     "creators": [],
     "verifier": "foodynooby",
     "verification": "https://youtu.be/YIsJeBI2c_c?si=JxlOv2gA33u8_K0c",
+    "showcase": "https://youtu.be/h1L1jJ-Ic4Y?si=UD9zEQIaonDV1mnE",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
-        "user": "temoofgod",
-        "link": "https://youtu.be/x58Og0kmmc4",
+        "user": "Xchomp",
+        "link": "#",
         "percent": 100,
         "hz": 240
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/JDZX7P6rJjY?si=SPjXka1HgdFBy0NQ",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Patrick61804",
-    "link": "https://youtu.be/RWyBqSJvOM8",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "iiLogan",
-    "link": "https://youtu.be/8omfGyOJCvQ?si=bLcUV4gqekwYtcN_",
-    "percent": 100,
-    "hz": 360
-}
+        }
 ]
 }

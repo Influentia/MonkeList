@@ -8,5 +8,11 @@
     "showcase": "https://youtu.be/6OaWcbX1bhU?si=3nxjc_GdtFrdt4cg",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Yashi",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

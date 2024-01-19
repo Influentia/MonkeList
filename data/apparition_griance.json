@@ -1,0 +1,18 @@
+{
+    "id": 99131177,
+    "name": "Apparition (Griance)",
+    "author": "LeGrianceJames",
+    "creators": ["LeGrianceJames"],
+    "verifier": "KandyMan",
+    "verification": "https://www.youtube.com/watch?v=Ef4pU5RkI8g&t=0s",
+    "showcase": "https://www.youtube.com/watch?v=oI9avcENwrw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Xchomp",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

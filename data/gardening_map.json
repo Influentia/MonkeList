@@ -5,21 +5,16 @@
     "creators": ["kalculus19", "azertite", "Hexitine"],
     "verifier": "Erzor",
     "verification": "https://youtu.be/naSjt-5J9gU?si=hv-0eCePEOF9LMZU",
+    "showcase": "https://youtu.be/6zy4Kb0-qsY?si=0I64RxDnbNi3ieUp",
     "percentToQualify": 100,
-    "password": "No Copy",
+    "password": "Not Copyable",
     "records": [
         {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/NKaItVBaTBA",
+            "user": "Influentia",
+            "link": "https://youtu.be/bz5_H4qmgU8",
             "percent": 100,
             "hz": 120
-    },
-    {
-        "user": "Jambott",
-        "link": "https://www.youtube.com/watch?v=LdtLoUwn_nE",
-        "percent": 100,
-        "hz": 360
-}
+        }
     ]
     
 }

@@ -8,7 +8,11 @@
     "showcase": "https://youtu.be/wqIeGrFUzX8?si=5CtcccBRjXRDUAsJ",
     "percentToQualify": 100,
     "records": [
-
-        
+        {
+            "user": "Cejelost",
+            "link": "#",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

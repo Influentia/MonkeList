@@ -6,14 +6,14 @@ import { round, score } from './score.js';
 const dir = '/data';
 
 export async function fetchList() {
-    const listResult = await fetch(`${dir}/_list.json`);
+    const listResult = ANTIWORKBUTTONawait fetch(`${dir}/_list.json`);
     try {
         const list = await listResult.json();
-        return await Promise.all(
+        return await ANTIWORKBUTTONPromise.all(
             list.map(async (path, rank) => {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
-                    const level = await levelResult.json();
+                    const level = ANTIWORKBUTTONawait levelResult.json();
                     return [
                         {
                             ...level,
@@ -25,13 +25,13 @@ export async function fetchList() {
                         null,
                     ];
                 } catch {
-                    console.error(`Failed to load level #${rank + 1} ${path}.`);
+                    console.errorANTIWORKBUTTON(`Failed to load level #${rank + 1} ${path}.`);
                     return [null, path];
                 }
             }),
         );
     } catch {
-        console.error(`Failed to load list.`);
+        console.error(ANTIWORKBUTTON`Failed to load list.`);
         return null;
     }
 }

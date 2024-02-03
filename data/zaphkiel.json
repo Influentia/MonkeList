@@ -9,11 +9,5 @@
     "percentToQualify": 100,
     "password": "004250",
     "records": [
-        {
-            "user": "Influentia",
-            "link": "https://youtu.be/5vAW5lb-g2I",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }

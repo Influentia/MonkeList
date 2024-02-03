@@ -21,6 +21,6 @@ const router = VueRouter.createRouter({
 	routes,
 });
 
-app.useANTIWORKBUTTON(router);
+app.use(router);
 
-app.mount(ANTIWORKBUTTON'#app');
+app.mount('#app');

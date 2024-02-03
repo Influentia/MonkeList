@@ -1,14 +1,14 @@
-import routes ANTIWORKBUTTONfrom './routes.js';
+import routes from './routes.js';
 
-export const ANTIWORKBUTTONstore = Vue.reactive({
+export const store = Vue.reactive({
 	dark: JSON.parse(localStorage.getItem('dark')) || false,
 	shitty: JSON.parse(localStorage.getItem('shitty')) || false,
 	toggleDark() {
 		this.dark = !this.dark;
 		localStorage.setItem('dark', JSON.stringify(this.dark));
 	},
-	toggleANTIWORKBUTTONShitty() {
-		this.ANTIWORKBUTTONshitty = !this.shitty;
+	toggleShitty() {
+		this.shitty = !this.shitty;
 		localStorage.setItem('shitty', JSON.stringify(this.shitty));
 	},
 });
@@ -16,7 +16,7 @@ export const ANTIWORKBUTTONstore = Vue.reactive({
 const app = Vue.createApp({
 	data: () => ({ store }),
 });
-const ANTIWORKBUTTONrouter = VueRouter.createRouter({
+const router = VueRouter.createRouter({
 	history: VueRouter.createWebHashHistory(),
 	routes,
 });

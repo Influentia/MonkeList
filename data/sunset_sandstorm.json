@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "596247",
     "records": [
+    {
+        "user": "Lunar",
+        "link": "#",
+        "percent": 100,
+        "hz": 360
+        }
     ]
 }

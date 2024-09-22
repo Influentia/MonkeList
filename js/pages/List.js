@@ -107,7 +107,6 @@ export default {
                     <p> - A decent amount of previous attempts (A single death at 1% is not sufficient, try to get somewhat far into the level. Everplay records are exempt from this.) </p>
                     <p> - End stats (The whole box must appear for at least one frame) </p>
                     <p> - Cheat Indicator (If you are using a mod menu that supports one, like Megahack v8) </p>
-                    <p> - Fps/tps indicator (For mod menus that support one) </p>
                     <p> - In-game source audio/Clicks (Either is fine, however both are strongly recommended. If you don't have either in your submission video, attach raw footage that does) </p>
                     <p> Refer to <a href="https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit#gid=0" style="text-decoration: underline;">this sheet</a> for a complete list of allowed mods.</p>
                     <p> Please also check for the following:</p>
@@ -115,6 +114,7 @@ export default {
                     <p> - Do not use secret routes or bug routes</p>
                     <p> - Do not use easy modes, only a record of the unmodified level qualifies</p>
                     <p> - Once a level falls onto the Legacy List, we won't accept records for it</p>
+                    <p> - If your record has already been accepted by another trustworthy List (Demon List, LRR List, UDL etc...) , you can ignore all previous requirements and just submit the level with just the raw footage <p>
                 </div>
             </div>
         </main>

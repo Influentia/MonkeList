@@ -9,23 +9,6 @@
     "password": "free copy",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Influentia",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "tulpputyyppi",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "empty",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
-        }
+
     ]
 }

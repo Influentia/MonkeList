@@ -8,17 +8,5 @@
     "showcase": "https://youtu.be/P30Z0-ZHFgY?si=E6-PiGAgq317ba4q",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Nikoo",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Xchomp",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        }
      ]
 }

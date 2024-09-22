@@ -9,22 +9,10 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "YayaneKK",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Pryanik",
             "link": "https://youtu.be/PWwYCvhBzUg?si=_4y7mbVISLx45bx3",
             "percent": 100,
             "hz": 60
-        },
-        {
-            "user": "Influentia",
-            "link": "https://youtu.be/jv6oaXQK5rI",
-            "percent": 100,
-            "hz": 360
         }
     ]
 }

@@ -9,47 +9,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "YayaneKK",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Nikoo",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Yoss",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "CornBoar",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sleepdeprivation",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
          {
             "user": "lowercasebeef",
             "link": "https://youtu.be/UXp2C2XhyRs?si=_NX__ft8d4y5EI5n",
             "percent": 100,
             "hz": 360
-        },
-         {
-            "user": "Yashi",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }

@@ -10,50 +10,8 @@
     "password": "666777",
     "records": [
             {
-            "user": "Lunar",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-            },
-            {
-            "user": "Yoss",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-            },
-            {
             "user": "qd1m",
             "link": "https://youtu.be/f03E3zPa1Ro?si=j-V45dNsluDysyjP",
-            "percent": 100,
-            "hz": 360
-            },
-             {
-            "user": "lowercasebeef",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-            },
-             {
-            "user": "Nikoo",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-            },
-            {
-            "user": "CornBoar",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-            },
-            {
-            "user": "YayaneKK",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
-            },
-            {
-            "user": "Sleepdeprivation",
-            "link": "#",
             "percent": 100,
             "hz": 360
             },
@@ -62,12 +20,6 @@
             "link": "https://youtu.be/9-AVvPjh50w?si=DgzFUJqnqfi8ri7D",
             "percent": 100,
             "hz": 360
-            },
-            {
-            "user": "Yashi",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
             }
      ]
 }

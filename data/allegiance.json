@@ -9,38 +9,8 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "qd1m",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "YayaneKK",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Nikoo",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Vamze",
             "link": "https://youtu.be/3kbSvrlShlQ?si=B9cnCG4wGSlneG3N",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Sleepdeprivation",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Yashi",
-            "link": "#",
             "percent": 100,
             "hz": 240
         }

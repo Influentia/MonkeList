@@ -9,35 +9,11 @@
     "percentToQualify": 100,
     "password": "123985",
     "records": [
-         {
-            "user": "Ange",
-            "link": "#",
-            "percent": 100,
-            "hz": 244
-        },
-        {
-            "user": "Yoss",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Nikoo",
-            "link": "#",
-            "percent": 100,
-            "hz": 360
-        },
         {
             "user": "lowercasebeef",
             "link": "https://youtu.be/aKsPskyiJqI?si=-NYSJN3n2U3KSzH5",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Yashi",
-            "link": "#",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
